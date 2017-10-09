@@ -1,1 +1,2 @@
-My first line of code via VI
+My first line of text via VI
+My Second line of text
